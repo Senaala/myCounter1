@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myCounter",
-    "slug": "myCounter",
+    "name": "ReactNativeProject1",
+    "slug": "ReactNativeProject1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
